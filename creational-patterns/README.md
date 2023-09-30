@@ -1,6 +1,7 @@
 # **Designer Parttern**
 
 ---
+### Creational Patterns
 
 ### Factory
 #### Factory Method is a creational design pattern that provides an interface for creating objects in a superclass, but allows subclasses to alter the type of objects that will be created.
@@ -14,7 +15,6 @@
 ![Factory Method after.](/assests/images/factory/iphone-after.jpg)
 
 ---
-
 ### Abstract Factory
 #### Abstract Factory is a creational design pattern that lets you produce families of related objects without specifying their concrete classes.
 
@@ -25,3 +25,11 @@
 ![Abastract Factory services](/assests/images/abstract-factory/services.jpg)
 
 ![Abastract Factory entityView](/assests/images/abstract-factory/services-entityView.jpg)
+
+---
+### Singleton
+#### Singleton is a creational design pattern that lets you ensure that a class has only one instance, while providing a global access point to this instance.
+
+![Singleton](/assests/images/singleton/connectionPool.jpg)
+
+---
