@@ -1,6 +1,7 @@
 # **Designer Parttern**
 
 ---
+
 ### Creational Patterns
 
 ### Factory
