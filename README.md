@@ -1,7 +1,6 @@
 # **Designer Parttern**
 
 ---
-
 ### Creational Patterns
 
 ### Factory
@@ -32,5 +31,17 @@
 #### Singleton is a creational design pattern that lets you ensure that a class has only one instance, while providing a global access point to this instance.
 
 ![Singleton](/assests/images/singleton/connectionPool.jpg)
+
+---
+### Builder
+#### Builder is a creational design pattern that lets you construct complex objects step by step. The pattern allows you to produce different types and representations of an object using the same construction code.
+
+![Builder before](/assests/images/builder/meal-before.jpg)
+
+![Builder after](/assests/images/builder/meal-after.jpg)
+
+![Builder fluent](/assests/images/builder/meal-fluent.jpg)
+
+![Builder functional](/assests/images/builder/meal-functional.jpg)
 
 ---
