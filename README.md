@@ -1,7 +1,7 @@
 # **Designer Parttern**
 
 ---
-### Creational Patterns
+### Creational Patterns:
 
 ### Factory
 #### Factory Method is a creational design pattern that provides an interface for creating objects in a superclass, but allows subclasses to alter the type of objects that will be created.
@@ -45,3 +45,17 @@
 ![Builder functional](/assests/images/builder/meal-functional.jpg)
 
 ---
+### Prototype
+#### Prototype is a creational design pattern that lets you copy existing objects without making your code dependent on their classes.
+
+![Prototype animation](/assests/images/prototype/animation.jpg)
+
+![Prototype cloneBuilder](/assests/images/prototype/cloneBuilder.jpg)
+
+![Prototype fluent](/assests/images/prototype/fluent.jpg)
+
+---
+### Structural patterns:
+
+### Adapter
+#### Adapter is a structural design pattern that allows objects with incompatible interfaces to collaborate.
