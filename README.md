@@ -2,6 +2,7 @@
 
 ---
 ### Creational Patterns:
+#### Creational design patterns provide various object creation mechanisms, which increase flexibility and reuse of existing code.
 
 ### Factory
 #### Factory Method is a creational design pattern that provides an interface for creating objects in a superclass, but allows subclasses to alter the type of objects that will be created.
@@ -55,7 +56,8 @@
 ![Prototype fluent](/assests/images/prototype/fluent.jpg)
 
 ---
-### Structural patterns:
+### Structural patterns: 
+#### Structural design patterns explain how to assemble objects and classes into larger structures, while keeping these structures flexible and efficient.
 
 ### Adapter
 #### Adapter is a structural design pattern that allows objects with incompatible interfaces to collaborate.
@@ -67,3 +69,24 @@
 ![Adapter class](/assests/images/adapter/hdmi-class.jpg)
 
 ![Adapter hexagonal](/assests/images/adapter/hexagonal.jpg)
+
+---
+### Bridge
+#### Bridge is a structural design pattern that lets you split a large class or a set of closely related classes into two separate hierarchies—abstraction and implementation—which can be developed independently of each other.
+
+![Bridgr service before](/assests/images/bridge/services-before.jpg)
+
+![Bridgr service after](/assests/images/bridge/services-after.jpg)
+
+![Bridgr converter](/assests/images/bridge/converter.jpg)
+
+---
+### Composite
+#### Composite is a structural design pattern that lets you compose objects into tree structures and then work with these structures as if they were individual objects.
+
+
+---
+### Reference:
+[Baeldung](https://www.baeldung.com/design-patterns-series) <br/>
+[Refactoring Guru](https://refactoring.guru/design-patterns) <br/>
+[Cod3r](https://www.cod3r.com.br/courses/padroes-de-projeto)
