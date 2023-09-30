@@ -74,11 +74,11 @@
 ### Bridge
 #### Bridge is a structural design pattern that lets you split a large class or a set of closely related classes into two separate hierarchies—abstraction and implementation—which can be developed independently of each other.
 
-![Bridgr service before](/assests/images/bridge/services-before.jpg)
+![Bridge service before](/assests/images/bridge/services-before.jpg)
 
-![Bridgr service after](/assests/images/bridge/services-after.jpg)
+![Bridge service after](/assests/images/bridge/services-after.jpg)
 
-![Bridgr converter](/assests/images/bridge/converter.jpg)
+![Bridge converter](/assests/images/bridge/converter.jpg)
 
 ---
 ### Composite
@@ -86,7 +86,15 @@
 
 ![Composite folders](/assests/images/composite/folders.jpg)
 
-![Bridgr swing](/assests/images/composite/swing.jpg)
+![Composite swing](/assests/images/composite/swing.jpg)
+
+---
+### Decorator
+#### Decorator is a structural design pattern that lets you attach new behaviors to objects by placing these objects inside special wrapper objects that contain the behaviors.
+
+![Decorator coffeeshop](/assests/images/decorator/coffeeshop.jpg)
+
+![Decorator swing](/assests/images/decorator/swing.jpg)
 
 ---
 ### Reference:
