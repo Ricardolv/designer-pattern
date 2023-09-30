@@ -59,3 +59,11 @@
 
 ### Adapter
 #### Adapter is a structural design pattern that allows objects with incompatible interfaces to collaborate.
+
+![Adapter before](/assests/images/adapter/hdmi-before.jpg)
+
+![Adapter after](/assests/images/adapter/hdmi-after.jpg)
+
+![Adapter class](/assests/images/adapter/hdmi-class.jpg)
+
+![Adapter hexagonal](/assests/images/adapter/hexagonal.jpg)
