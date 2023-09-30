@@ -97,6 +97,15 @@
 ![Decorator swing](/assests/images/decorator/swing.jpg)
 
 ---
+### Facade
+#### Facade is a structural design pattern that provides a simplified interface to a library, a framework, or any other complex set of classes.
+![Facade before](/assests/images/facade/callCenter-before.jpg)
+
+![Facade after](/assests/images/facade/callCenter-after.jpg)
+
+![Facade isolated](/assests/images/facade/callCenter-isolated.jpg)
+
+---
 ### Reference:
 [Baeldung](https://www.baeldung.com/design-patterns-series) <br/>
 [Refactoring Guru](https://refactoring.guru/design-patterns) <br/>
