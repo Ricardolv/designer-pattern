@@ -147,6 +147,16 @@
 ![Chain services](/assests/images/chain/services.jpg)
 
 ---
+### Command
+#### Command is a behavioral design pattern that turns a request into a stand-alone object that contains all information about the request. This transformation lets you pass requests as a method arguments, delay or queue a request’s execution, and support undoable operations.
+
+![Command before](/assests/images/command/alexa-before.jpg)
+
+![Command after](/assests/images/command/alexa-after.jpg)
+
+![Command migrations](/assests/images/command/migrations.jpg)
+
+---
 ### Reference:
 [Baeldung](https://www.baeldung.com/design-patterns-series) <br/>
 [Refactoring Guru](https://refactoring.guru/design-patterns) <br/>
