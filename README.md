@@ -124,6 +124,16 @@
 ![Proxy resource](/assests/images/proxy/resource.jpg)
 
 ---
+### Mediator
+#### Mediator is a behavioral design pattern that lets you reduce chaotic dependencies between objects. The pattern restricts direct communications between the objects and forces them to collaborate only via a mediator object.
+
+![Mediator before](/assests/images/mediator/swing-before.jpg)
+
+![Mediator after](/assests/images/mediator/swing-after.jpg)
+
+![Mediator atm](/assests/images/mediator/translator.jpg)
+
+---
 ### Reference:
 [Baeldung](https://www.baeldung.com/design-patterns-series) <br/>
 [Refactoring Guru](https://refactoring.guru/design-patterns) <br/>
