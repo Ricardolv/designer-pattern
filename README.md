@@ -1,7 +1,7 @@
 # **Designer Parttern**
 
 ---
-### Creational Patterns:
+### Creational Design Patterns:
 #### Creational design patterns provide various object creation mechanisms, which increase flexibility and reuse of existing code.
 
 ### Factory
@@ -56,7 +56,7 @@
 ![Prototype fluent](/assests/images/prototype/fluent.jpg)
 
 ---
-### Structural patterns: 
+### Structural Design Patterns: 
 #### Structural design patterns explain how to assemble objects and classes into larger structures, while keeping these structures flexible and efficient.
 
 ### Adapter
@@ -124,6 +124,9 @@
 ![Proxy resource](/assests/images/proxy/resource.jpg)
 
 ---
+### Behavioral Design Patterns:
+#### Behavioral design patterns are concerned with algorithms and the assignment of responsibilities between objects.
+
 ### Mediator
 #### Mediator is a behavioral design pattern that lets you reduce chaotic dependencies between objects. The pattern restricts direct communications between the objects and forces them to collaborate only via a mediator object.
 
