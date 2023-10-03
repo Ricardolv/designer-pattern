@@ -1,8 +1,8 @@
 package br.com.richard.mediator.swing.before;
 
-import br.com.richard.mediator.swing.before.components.AddButton;
 import br.com.richard.mediator.swing.before.components.Label;
 import br.com.richard.mediator.swing.before.components.ResetButton;
+import br.com.richard.mediator.swing.before.components.AddButton;
 import br.com.richard.mediator.swing.before.components.State;
 
 import javax.swing.*;
@@ -11,7 +11,7 @@ import java.awt.*;
 public class Client {
 	private AddButton button;
 	private ResetButton reset;
-	private Label label;
+	private br.com.richard.mediator.swing.before.components.Label label;
 	private State state;
 	
 	public Client() {

@@ -1,10 +1,10 @@
 package br.com.richard.mediator.swing.after;
 
+import br.com.richard.mediator.swing.after.mediator.Mediator;
 import br.com.richard.mediator.swing.after.components.AddButton;
 import br.com.richard.mediator.swing.after.components.Label;
 import br.com.richard.mediator.swing.after.components.ResetButton;
 import br.com.richard.mediator.swing.after.components.State;
-import br.com.richard.mediator.swing.after.mediator.Mediator;
 
 import javax.swing.*;
 import java.awt.*;
