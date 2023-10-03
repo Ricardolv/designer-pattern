@@ -106,6 +106,17 @@
 ![Facade isolated](/assests/images/facade/callCenter-isolated.jpg)
 
 ---
+### Flyweight
+#### Flyweight is a structural design pattern that lets you fit more objects into the available amount of RAM by sharing common parts of state between multiple objects instead of keeping all of the data in each object.
+
+![Flyweight game map](/assests/images/flyweight/game-map.jpg)
+
+![Flyweight before](/assests/images/flyweight/music-before.jpg)
+
+![Flyweight after](/assests/images/flyweight/music-after.jpg)
+
+
+---
 ### Reference:
 [Baeldung](https://www.baeldung.com/design-patterns-series) <br/>
 [Refactoring Guru](https://refactoring.guru/design-patterns) <br/>
