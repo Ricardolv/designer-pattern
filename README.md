@@ -200,6 +200,16 @@
 
 ![Strategy worker](/assests/images/strategy/worker.jpg)
 
+---
+### Template Method
+#### Template Method is a behavioral design pattern that defines the skeleton of an algorithm in the superclass but lets subclasses override specific steps of the algorithm without changing its structure.
+
+![Template Method  before](/assests/images/template/sales-before.jpg)
+
+![Template Method  after](/assests/images/template/sales-after.jpg)
+
+![Template Method  persist](/assests/images/template/persist.jpg)
+
 
 ---
 ### Reference:
