@@ -169,6 +169,16 @@
 ![Iterator tv](/assests/images/iterator/tv.jpg)
 
 ---
+### Observer
+#### Observer is a behavioral design pattern that lets you define a subscription mechanism to notify multiple objects about any events that happen to the object they’re observing.
+
+![Observer before](/assests/images/observer/party-before.jpg)
+
+![Observer after](/assests/images/observer/party-after.jpg)
+
+![Observer swing](/assests/images/observer/swing.jpg)
+
+---
 ### Reference:
 [Baeldung](https://www.baeldung.com/design-patterns-series) <br/>
 [Refactoring Guru](https://refactoring.guru/design-patterns) <br/>
