@@ -189,6 +189,19 @@
 ![State pacman](/assests/images/state/pacman.jpg)
 
 ---
+### Strategy
+#### Strategy is a behavioral design pattern that lets you define a family of algorithms, put each of them into a separate class, and make their objects interchangeable.
+
+![Strategy before](/assests/images/strategy/calculator-before.jpg)
+
+![Strategy after](/assests/images/strategy/calculator-after.jpg)
+
+![Strategy person](/assests/images/strategy/person.jpg)
+
+![Strategy worker](/assests/images/strategy/worker.jpg)
+
+
+---
 ### Reference:
 [Baeldung](https://www.baeldung.com/design-patterns-series) <br/>
 [Refactoring Guru](https://refactoring.guru/design-patterns) <br/>
