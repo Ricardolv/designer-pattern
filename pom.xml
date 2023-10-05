@@ -15,6 +15,7 @@
     <modules>
         <module>creational-patterns</module>
         <module>estructural-patterns</module>
+        <module>behavioral-patterns</module>
     </modules>
 
 
