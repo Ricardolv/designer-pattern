@@ -163,6 +163,12 @@
 ![Memento swing](/assests/images/memento/swing.jpg)
 
 ---
+### Iterator
+#### Iterator is a behavioral design pattern that lets you traverse elements of a collection without exposing its underlying representation (list, stack, tree, etc.).
+
+![Iterator tv](/assests/images/iterator/tv.jpg)
+
+---
 ### Reference:
 [Baeldung](https://www.baeldung.com/design-patterns-series) <br/>
 [Refactoring Guru](https://refactoring.guru/design-patterns) <br/>
