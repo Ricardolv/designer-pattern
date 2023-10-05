@@ -179,6 +179,16 @@
 ![Observer swing](/assests/images/observer/swing.jpg)
 
 ---
+### State
+#### State is a behavioral design pattern that lets an object alter its behavior when its internal state changes. It appears as if the object changed its class.
+
+![State before](/assests/images/state/headphone-before.jpg)
+
+![State after](/assests/images/state/headphone-after.jpg)
+
+![State pacman](/assests/images/state/pacman.jpg)
+
+---
 ### Reference:
 [Baeldung](https://www.baeldung.com/design-patterns-series) <br/>
 [Refactoring Guru](https://refactoring.guru/design-patterns) <br/>
