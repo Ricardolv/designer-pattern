@@ -157,6 +157,12 @@
 ![Command migrations](/assests/images/command/migrations.jpg)
 
 ---
+### Memento
+#### Memento is a behavioral design pattern that lets you save and restore the previous state of an object without revealing the details of its implementation.
+
+![Memento swing](/assests/images/memento/swing.jpg)
+
+---
 ### Reference:
 [Baeldung](https://www.baeldung.com/design-patterns-series) <br/>
 [Refactoring Guru](https://refactoring.guru/design-patterns) <br/>
